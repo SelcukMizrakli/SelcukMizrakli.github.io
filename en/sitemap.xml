@@ -2,235 +2,235 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://selcukmizrakli.github.io/about/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/about/"
+                href="https://selcukmizrakli.github.io/tr/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://selcukmizrakli.github.io/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://selcukmizrakli.github.io/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/"
+                href="https://selcukmizrakli.github.io/tr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://selcukmizrakli.github.io/"
                 />
   </url><url>
-    <loc>http://www.example.com/tags/css/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/css/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <loc>https://selcukmizrakli.github.io/series/demonstra%C3%A7%C3%A3o-do-tema/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
+    <loc>https://selcukmizrakli.github.io/categories/demonstra%C3%A7%C3%A3o-do-tema/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/markdown-syntax.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/markdown-syntax.pt-br/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/html/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/html/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/hugo/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/hugo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/lone-coder/</loc>
+    <loc>https://selcukmizrakli.github.io/authors/lone-coder/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/markdown/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/markdown/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/markdown-syntax/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/markdown-syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/programador-solit%C3%A1rio/</loc>
+    <loc>https://selcukmizrakli.github.io/authors/programador-solit%C3%A1rio/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://selcukmizrakli.github.io/series/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/series/"
+                href="https://selcukmizrakli.github.io/tr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://selcukmizrakli.github.io/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/categories/sintaxe/</loc>
+    <loc>https://selcukmizrakli.github.io/categories/sintaxe/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/syntax/</loc>
+    <loc>https://selcukmizrakli.github.io/categories/syntax/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/series/theme-demo/</loc>
+    <loc>https://selcukmizrakli.github.io/series/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/theme-demo/</loc>
+    <loc>https://selcukmizrakli.github.io/categories/theme-demo/</loc>
     <lastmod>2023-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/rich-content.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/rich-content.pt-br/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/rich-content/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/rich-content/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/shortcodes/</loc>
     <lastmod>2023-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/more-rich-content.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/more-rich-content.pt-br/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/more-rich-content/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/more-rich-content/</loc>
     <lastmod>2023-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/math-typesetting.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/math-typesetting.pt-br/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/math-typesetting/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/math-typesetting/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/html-and-css-only-tabs/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/html-and-css-only-tabs/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/html-and-css-only-tabs.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/html-and-css-only-tabs.pt-br/</loc>
     <lastmod>2023-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/mermaid-support/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/mermaid-support/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/mermaid-support.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/mermaid-support.pt-br/</loc>
     <lastmod>2023-07-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/emoji/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/emoji/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/emoji-support/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/emoji-support/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/emoji-support.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/emoji-support.pt-br/</loc>
     <lastmod>2023-07-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/hugo-coder-wiki/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/hugo-coder-wiki/</loc>
     <lastmod>2023-07-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/placeholder-text/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/placeholder-text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/text/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/text/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/posts/placeholder-text.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/posts/placeholder-text.pt-br/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://selcukmizrakli.github.io/authors/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/authors/"
+                href="https://selcukmizrakli.github.io/tr/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://selcukmizrakli.github.io/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/autores/autores-de-hugo/</loc>
+    <loc>https://selcukmizrakli.github.io/autores/autores-de-hugo/</loc>
     <lastmod>2023-01-05T01:15:52+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/authors/hugo-authors/</loc>
+    <loc>https://selcukmizrakli.github.io/authors/hugo-authors/</loc>
     <lastmod>2023-01-05T01:15:29+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://selcukmizrakli.github.io/categories/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/categories/"
+                href="https://selcukmizrakli.github.io/tr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://selcukmizrakli.github.io/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/categoria/temas/</loc>
+    <loc>https://selcukmizrakli.github.io/categoria/temas/</loc>
     <lastmod>2023-01-04T23:21:18+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/categoria/sintaxe/</loc>
+    <loc>https://selcukmizrakli.github.io/categoria/sintaxe/</loc>
     <lastmod>2023-01-04T23:21:06+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/shortcodes/_index.pt-br/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/shortcodes/_index.pt-br/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
   </url><url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://selcukmizrakli.github.io/tags/</loc>
     <lastmod>2023-01-04T11:51:36+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/tags/"
+                href="https://selcukmizrakli.github.io/tr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://selcukmizrakli.github.io/tags/"
                 />
   </url><url>
-    <loc>http://www.example.com/contact/</loc>
+    <loc>https://selcukmizrakli.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/contact/"
+                href="https://selcukmizrakli.github.io/tr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://selcukmizrakli.github.io/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/experience/</loc>
+    <loc>https://selcukmizrakli.github.io/experience/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/experience/"
+                href="https://selcukmizrakli.github.io/tr/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/experience/"
+                href="https://selcukmizrakli.github.io/experience/"
                 />
   </url><url>
-    <loc>http://www.example.com/skills/</loc>
+    <loc>https://selcukmizrakli.github.io/skills/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/skills/"
+                href="https://selcukmizrakli.github.io/tr/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/skills/"
+                href="https://selcukmizrakli.github.io/skills/"
                 />
   </url>
 </urlset>

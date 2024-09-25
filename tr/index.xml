@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selçuk Mızraklı</title>
-    <link>http://www.example.com/tr/</link>
+    <link>https://selcukmizrakli.github.io/tr/</link>
     <description>Recent content on Selçuk Mızraklı</description>
     <generator>Hugo</generator>
     <language>tr</language>
     <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/tr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://selcukmizrakli.github.io/tr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hakkımda</title>
-      <link>http://www.example.com/tr/about/</link>
+      <link>https://selcukmizrakli.github.io/tr/about/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/tr/about/</guid>
+      <guid>https://selcukmizrakli.github.io/tr/about/</guid>
       <description>&lt;p&gt;Merhaba, ben Selcuk Mizrakli. 1,5 yıllık kod yazma deneyimine sahip bir full-stack yazılım QA mühendisiyim. Otomatik test senaryoları oluşturma, uygulama ve yürütme konusunda uzmanım. Ayrıca, hata yönetimi ve takibi konusunda yetkinim ve yazılım geliştirme ekipleriyle etkili iletişim kurabiliyorum.&lt;/p&gt;&#xA;&lt;p&gt;Projelerimde güçlü analitik düşünme, problem çözme ve detaylara dikkat etme becerileri gösterdim ve Agile metodolojilerini benimsedim. Uzmanlık alanım hem manuel hem de otomatik testleri kapsıyor ve buna veritabanı ve API testleri de dahil.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beceriler</title>
-      <link>http://www.example.com/tr/skills/</link>
+      <link>https://selcukmizrakli.github.io/tr/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/tr/skills/</guid>
+      <guid>https://selcukmizrakli.github.io/tr/skills/</guid>
       <description>&lt;h2 id=&#34;teknik-beceriler&#34;&gt;&#xA;  Teknik Beceriler&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#teknik-beceriler&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;programlama-becerileri&#34;&gt;&#xA;  Programlama Becerileri&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#programlama-becerileri&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;li&gt;C#&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;test-becerileri&#34;&gt;&#xA;  Test Becerileri&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#test-becerileri&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Selenium&lt;/li&gt;&#xA;&lt;li&gt;APPIUM&lt;/li&gt;&#xA;&lt;li&gt;TestNG&lt;/li&gt;&#xA;&lt;li&gt;JUnit&lt;/li&gt;&#xA;&lt;li&gt;Cucumber&lt;/li&gt;&#xA;&lt;li&gt;Postman&lt;/li&gt;&#xA;&lt;li&gt;REST Assured&lt;/li&gt;&#xA;&lt;li&gt;Xray&lt;/li&gt;&#xA;&lt;li&gt;TestRail&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;proje-ve-sürüm-yönetimi&#34;&gt;&#xA;  Proje ve Sürüm Yönetimi&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#proje-ve-s%c3%bcr%c3%bcm-y%c3%b6netimi&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JIRA&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;Jenkins&lt;/li&gt;&#xA;&lt;li&gt;Maven&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;diğer-beceriler&#34;&gt;&#xA;  Diğer Beceriler&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#di%c4%9fer-beceriler&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Otomasyon Testi&lt;/li&gt;&#xA;&lt;li&gt;Manuel Test&lt;/li&gt;&#xA;&lt;li&gt;Veritabanı Testi (JDBC)&lt;/li&gt;&#xA;&lt;li&gt;API Testi&lt;/li&gt;&#xA;&lt;li&gt;APPIUM ile Mobil Test&lt;/li&gt;&#xA;&lt;li&gt;Proje Yönetim Metodları (Agile, Waterfall)&lt;/li&gt;&#xA;&lt;li&gt;Gelişmiş Excel&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Deneyim</title>
-      <link>http://www.example.com/tr/experience/</link>
+      <link>https://selcukmizrakli.github.io/tr/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/tr/experience/</guid>
+      <guid>https://selcukmizrakli.github.io/tr/experience/</guid>
       <description>&lt;h2 id=&#34;profesyonel-deneyim&#34;&gt;&#xA;  Profesyonel Deneyim&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#profesyonel-deneyim&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;full-stack-software-qa-mühendisi&#34;&gt;&#xA;  Full Stack Software QA Mühendisi&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#full-stack-software-qa-m%c3%bchendisi&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Başlık Linki&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Başlık Linki&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Scholar Stations Project&lt;/strong&gt; | 05.2023 - Günümüz&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Selenium WebDriver, Cucumber ve TestNG framework&amp;rsquo;ünü Java ile kullanarak test senaryoları oluşturdum ve uyguladım, manuel test süresini %30 azalttım.&lt;/li&gt;&#xA;&lt;li&gt;Hem manuel hem de otomatik testler için test senaryoları, test planları ve senaryoları geliştirdim ve uyguladım.&lt;/li&gt;&#xA;&lt;li&gt;Postman ve REST Assured gibi araçları kullanarak API test senaryoları geliştirdim ve uyguladım, backend servislerinin güvenilirliğini ve güvenliğini sağladım.&lt;/li&gt;&#xA;&lt;li&gt;Veri doğrulama ve bütünlük kontrolleri için JDBC ile Veritabanı Testi gerçekleştirdim, veri tutarlılığını %25 artırdım.&lt;/li&gt;&#xA;&lt;li&gt;Kod yönetimi ve işbirliği için GitHub&amp;rsquo;ı bir sürüm kontrol sistemi olarak kullandım.&lt;/li&gt;&#xA;&lt;li&gt;Agile ortamlarda otomasyon test ekibiyle işbirliği yaparak, yüksek kaliteli otomasyon çözümlerinin zamanında teslimini sağladım ve sprint hedeflerine %95 uyum sağladım.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kullanılan Teknolojiler&lt;/strong&gt;: Java, Selenium, Cucumber, TestNG, JIRA, Confluence, SQL, Appium, API Testing, Appium Inspector, MySQL, Postman, Git, Maven.&lt;/p&gt;</description>
     </item>
     <item>
       <title>İletişim</title>
-      <link>http://www.example.com/tr/contact/</link>
+      <link>https://selcukmizrakli.github.io/tr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/tr/contact/</guid>
+      <guid>https://selcukmizrakli.github.io/tr/contact/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:selcukmizrakli20@gmail.com&#34; &gt;selcukmizrakli20@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/selcukmizrakli/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selçuk Mizraklı&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/SelcukMizrakli&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selçuk Mizraklı&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>

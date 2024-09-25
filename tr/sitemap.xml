@@ -2,114 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.example.com/tr/about/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/about/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/about/"
+                href="https://selcukmizrakli.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/about/"
+                href="https://selcukmizrakli.github.io/tr/about/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/</loc>
     <lastmod>2024-09-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://selcukmizrakli.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/"
+                href="https://selcukmizrakli.github.io/tr/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/authors/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/authors/"
+                href="https://selcukmizrakli.github.io/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/authors/"
+                href="https://selcukmizrakli.github.io/tr/authors/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/skills/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/skills/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/skills/"
+                href="https://selcukmizrakli.github.io/skills/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/skills/"
+                href="https://selcukmizrakli.github.io/tr/skills/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/categories/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://selcukmizrakli.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/categories/"
+                href="https://selcukmizrakli.github.io/tr/categories/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/experience/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/experience/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/experience/"
+                href="https://selcukmizrakli.github.io/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/experience/"
+                href="https://selcukmizrakli.github.io/tr/experience/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/contact/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/contact/"
+                href="https://selcukmizrakli.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/contact/"
+                href="https://selcukmizrakli.github.io/tr/contact/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/series/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://selcukmizrakli.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/series/"
+                href="https://selcukmizrakli.github.io/tr/series/"
                 />
   </url><url>
-    <loc>http://www.example.com/tr/tags/</loc>
+    <loc>https://selcukmizrakli.github.io/tr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://selcukmizrakli.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="tr"
-                href="http://www.example.com/tr/tags/"
+                href="https://selcukmizrakli.github.io/tr/tags/"
                 />
   </url>
 </urlset>

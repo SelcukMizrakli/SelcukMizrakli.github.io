@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Selcuk Mizrakli</title>
-    <link>http://www.example.com/</link>
+    <link>https://selcukmizrakli.github.io/</link>
     <description>Recent content on Selcuk Mizrakli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://selcukmizrakli.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://selcukmizrakli.github.io/about/</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://selcukmizrakli.github.io/about/</guid>
       <description>&lt;p&gt;Hello, I am Selcuk Mizrakli, a full-stack software QA engineer with 1.5 years of coding experience. I specialize in creating, implementing, and executing automated test cases, with proficiency in defect management and tracking, alongside effective communication with software development teams.&lt;/p&gt;&#xA;&lt;p&gt;I have demonstrated strong analytical thinking, problem-solving, and attention to detail in my projects, adopting Agile methodologies. My expertise spans both manual and automated testing, including database and API testing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Guia de Sintaxe Markdown</title>
-      <link>http://www.example.com/posts/markdown-syntax.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/markdown-syntax.pt-br/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/markdown-syntax.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/markdown-syntax.pt-br/</guid>
       <description>&lt;p&gt;Esse artigo é um exemplo básico para mostrar a sintaxe Markdown que é usada nos arquivos de conteúdo do Hugo. Ele também mostrar como cada elemento básico HTML é estilizado com CSS com os temas do Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://www.example.com/posts/markdown-syntax/</link>
+      <link>https://selcukmizrakli.github.io/posts/markdown-syntax/</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/markdown-syntax/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Conteúdo Rico</title>
-      <link>http://www.example.com/posts/rich-content.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/rich-content.pt-br/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/rich-content.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/rich-content.pt-br/</guid>
       <description>&lt;p&gt;O Hugo vem com vários &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcodes Internos&lt;/a&gt; para conteúdo rico, assim como uma &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Configuração de Privacidade&lt;/a&gt; e uma gama de Shortcodes simples que permitem embutir versões estáticas e sem JS de várias de redes sociais.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://www.example.com/posts/rich-content/</link>
+      <link>https://selcukmizrakli.github.io/posts/rich-content/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/rich-content/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Mais Conteúdo Rico</title>
-      <link>http://www.example.com/posts/more-rich-content.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/more-rich-content.pt-br/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/more-rich-content.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/more-rich-content.pt-br/</guid>
       <description>&lt;p&gt;O Hugo Coder proporciona alguns Shortcodes Customizados.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>More Rich Content</title>
-      <link>http://www.example.com/posts/more-rich-content/</link>
+      <link>https://selcukmizrakli.github.io/posts/more-rich-content/</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/more-rich-content/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/more-rich-content/</guid>
       <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xA;  &#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Configuração de Equações Matemáticas</title>
-      <link>http://www.example.com/posts/math-typesetting.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/math-typesetting.pt-br/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/math-typesetting.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/math-typesetting.pt-br/</guid>
       <description>&lt;p&gt;Em um projeto Hugo as Notações Matemáticas podem ser usadas com a ajuda de bibliotecas JavaScript de terceiros.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://www.example.com/posts/math-typesetting/</link>
+      <link>https://selcukmizrakli.github.io/posts/math-typesetting/</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/math-typesetting/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>http://www.example.com/posts/html-and-css-only-tabs/</link>
+      <link>https://selcukmizrakli.github.io/posts/html-and-css-only-tabs/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/html-and-css-only-tabs/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/html-and-css-only-tabs/</guid>
       <description>&lt;h2 id=&#34;shortcodes&#34;&gt;&#xA;  Shortcodes&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#shortcodes&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The following content:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Goodbye&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Will generate:&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;tabs tabs-left&#34;&gt;&#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-0:checked ~ .tab-content-0-0 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-0&#34; checked/&gt;&#xA;&lt;label for=&#34;tab-0-0&#34; class=&#34;tab-label&#34;&gt;Hello&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-0&#34;&gt;&#xA;  Hello World!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-1:checked ~ .tab-content-0-1 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-1&#34; /&gt;&#xA;&lt;label for=&#34;tab-0-1&#34; class=&#34;tab-label&#34;&gt;Goodbye&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-1&#34;&gt;&#xA;  Goodbye Everybody!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;right-alighment&#34;&gt;&#xA;  Right alighment&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#right-alighment&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;You can also align the tabs to the right:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;right&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Goodbye&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Giving you this look:&lt;/p&gt;</description>
     </item>
     <item>
       <title>HTML and CSS only tabs</title>
-      <link>http://www.example.com/posts/html-and-css-only-tabs.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/html-and-css-only-tabs.pt-br/</link>
       <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/html-and-css-only-tabs.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/html-and-css-only-tabs.pt-br/</guid>
       <description>&lt;h2 id=&#34;shortcodes&#34;&gt;&#xA;  Shortcodes&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#shortcodes&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O seguinte conteúdo:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Goodbye&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Irá gerar:&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;div class=&#34;tabs tabs-left&#34;&gt;&#xA;  &#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-0:checked ~ .tab-content-0-0 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-0&#34; checked/&gt;&#xA;&lt;label for=&#34;tab-0-0&#34; class=&#34;tab-label&#34;&gt;Hello&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-0&#34;&gt;&#xA;  Hello World!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;style&gt;&#xA;  .tabs input#tab-0-1:checked ~ .tab-content-0-1 {&#xA;    display: block;&#xA;  }&#xA;&lt;/style&gt;&#xA;&#xA;&lt;input type=&#34;radio&#34; class=&#34;tab-input&#34; name=&#34;tab-select-0&#34; id=&#34;tab-0-1&#34; /&gt;&#xA;&lt;label for=&#34;tab-0-1&#34; class=&#34;tab-label&#34;&gt;Goodbye&lt;/label&gt;&#xA;&lt;div class=&#34;tab-content tab-content-0-1&#34;&gt;&#xA;  Goodbye Everybody!&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;alinhamento-à-direita&#34;&gt;&#xA;  Alinhamento à direita&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#alinhamento-%c3%a0-direita&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Você também pode alinhas as tabs à direita:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;align&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;right&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Hello World!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;Goodbye&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Goodbye Everybody!&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tab&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;tabgroup&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Obtendo o seguinte resultado:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mermaid JS support</title>
-      <link>http://www.example.com/posts/mermaid-support/</link>
+      <link>https://selcukmizrakli.github.io/posts/mermaid-support/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/mermaid-support/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/mermaid-support/</guid>
       <description>&lt;p&gt;If you want to use &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; on your website.&#xA;Provide &lt;code&gt;mermaid&lt;/code&gt; as &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#readout&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shortcode&lt;/a&gt; in your markdown file.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;flowchart LR&#xA;&#xA;    A --&gt; B&#xA;&#xA;    B --&gt; C&#xA;&#xA;    C --&gt; D&#xA;&#xA;    D --&gt; B&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;sequenceDiagram&#xA;participant Alice&#xA;participant Bob&#xA;Alice-&gt;&gt;Bob: Hi Bob&#xA;Bob-&gt;&gt;Alice: Hi Alice&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Find more example on &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; website.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mermaid JS support</title>
-      <link>http://www.example.com/posts/mermaid-support.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/mermaid-support.pt-br/</link>
       <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/mermaid-support.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/mermaid-support.pt-br/</guid>
       <description>&lt;p&gt;Se quiser usar o &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt; em sua página.&#xA;Use o &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#readout&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcode&lt;/a&gt; &lt;code&gt;mermaid&lt;/code&gt; em seus conteúdos Markdown.&lt;/p&gt;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;flowchart LR&#xA;&#xA;    A --&gt; B&#xA;&#xA;    B --&gt; C&#xA;&#xA;    C --&gt; D&#xA;&#xA;    D --&gt; B&#xA;&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;div class=&#34;mermaid&#34;&gt;&#xA;sequenceDiagram&#xA;participant Alice&#xA;participant Bob&#xA;Alice-&gt;&gt;Bob: Hi Bob&#xA;Bob-&gt;&gt;Alice: Hi Alice&#xA;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;Entro mais exemplos na página do &lt;a href=&#34;https://mermaid-js.github.io/mermaid/#/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mermaid-JS&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://www.example.com/posts/emoji-support/</link>
+      <link>https://selcukmizrakli.github.io/posts/emoji-support/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/emoji-support/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Suporte a Emojis</title>
-      <link>http://www.example.com/posts/emoji-support.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/emoji-support.pt-br/</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/emoji-support.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/emoji-support.pt-br/</guid>
       <description>&lt;p&gt;Emojis podem ser ativados em um projeto Hugo de diversar formas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>External Page: Hugo Coder Wiki</title>
-      <link>http://www.example.com/posts/hugo-coder-wiki/</link>
+      <link>https://selcukmizrakli.github.io/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/hugo-coder-wiki/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     <item>
       <title>Página Externa: Wiki Hugo Coder</title>
-      <link>http://www.example.com/posts/hugo-coder-wiki/</link>
+      <link>https://selcukmizrakli.github.io/posts/hugo-coder-wiki/</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/hugo-coder-wiki/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/hugo-coder-wiki/</guid>
       <description></description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://www.example.com/posts/placeholder-text/</link>
+      <link>https://selcukmizrakli.github.io/posts/placeholder-text/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/placeholder-text/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Texto de Exemplo</title>
-      <link>http://www.example.com/posts/placeholder-text.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/posts/placeholder-text.pt-br/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/posts/placeholder-text.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/posts/placeholder-text.pt-br/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Autores de Hugo</title>
-      <link>http://www.example.com/autores/autores-de-hugo/</link>
+      <link>https://selcukmizrakli.github.io/autores/autores-de-hugo/</link>
       <pubDate>Thu, 05 Jan 2023 01:15:52 +0100</pubDate>
-      <guid>http://www.example.com/autores/autores-de-hugo/</guid>
+      <guid>https://selcukmizrakli.github.io/autores/autores-de-hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>temas</title>
-      <link>http://www.example.com/categoria/temas/</link>
+      <link>https://selcukmizrakli.github.io/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
-      <guid>http://www.example.com/categoria/temas/</guid>
+      <guid>https://selcukmizrakli.github.io/categoria/temas/</guid>
       <description></description>
     </item>
     <item>
       <title>sintaxe</title>
-      <link>http://www.example.com/categoria/sintaxe/</link>
+      <link>https://selcukmizrakli.github.io/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
-      <guid>http://www.example.com/categoria/sintaxe/</guid>
+      <guid>https://selcukmizrakli.github.io/categoria/sintaxe/</guid>
       <description></description>
     </item>
     <item>
       <title>Códigos curtos</title>
-      <link>http://www.example.com/tags/shortcodes/_index.pt-br/</link>
+      <link>https://selcukmizrakli.github.io/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
-      <guid>http://www.example.com/tags/shortcodes/_index.pt-br/</guid>
+      <guid>https://selcukmizrakli.github.io/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://selcukmizrakli.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://selcukmizrakli.github.io/contact/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Email: &lt;a href=&#34;mailto:selcukmizrakli20@gmail.com&#34; &gt;selcukmizrakli20@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;LinkedIn: &lt;a href=&#34;https://www.linkedin.com/in/selcukmizrakli/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selçuk Mizraklı&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/SelcukMizrakli&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Selçuk Mizraklı&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>http://www.example.com/experience/</link>
+      <link>https://selcukmizrakli.github.io/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/experience/</guid>
+      <guid>https://selcukmizrakli.github.io/experience/</guid>
       <description>&lt;h2 id=&#34;professional-experience&#34;&gt;&#xA;  Professional Experience&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#professional-experience&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;full-stack-software-qa-engineer&#34;&gt;&#xA;  Full Stack Software QA Engineer&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#full-stack-software-qa-engineer&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Scholar Stations Project&lt;/strong&gt; | 05.2023 - Present&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Created and executed test cases using Selenium WebDriver, Cucumber, and TestNG framework with Java, reducing manual test time by 30%.&lt;/li&gt;&#xA;&lt;li&gt;Developed and executed test cases, test plans, and scenarios for both manual and automated testing.&lt;/li&gt;&#xA;&lt;li&gt;Developed and executed API test cases using tools such as Postman and REST Assured, ensuring the reliability and security of backend services.&lt;/li&gt;&#xA;&lt;li&gt;Performed Database Testing with JDBC for data validation and integrity checks, improving data consistency by 25%.&lt;/li&gt;&#xA;&lt;li&gt;Utilized GitHub as a version control system for code management and collaboration.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with the automation testing team in Agile environments, ensuring timely delivery of high-quality automation solutions and achieving 95% adherence to sprint goals.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech Stack&lt;/strong&gt;: Java, Selenium, Cucumber, TestNG, JIRA, Confluence, SQL, Appium, API Testing, Appium Inspector, MySQL, Postman, Git, Maven.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skills</title>
-      <link>http://www.example.com/skills/</link>
+      <link>https://selcukmizrakli.github.io/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.example.com/skills/</guid>
+      <guid>https://selcukmizrakli.github.io/skills/</guid>
       <description>&lt;h2 id=&#34;technical-skills&#34;&gt;&#xA;  Technical Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#technical-skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;h3 id=&#34;programming-skills&#34;&gt;&#xA;  Programming Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#programming-skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Java&lt;/li&gt;&#xA;&lt;li&gt;Python&lt;/li&gt;&#xA;&lt;li&gt;SQL&lt;/li&gt;&#xA;&lt;li&gt;C#&lt;/li&gt;&#xA;&lt;li&gt;HTML&lt;/li&gt;&#xA;&lt;li&gt;CSS&lt;/li&gt;&#xA;&lt;li&gt;PHP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;testing-skills&#34;&gt;&#xA;  Testing Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#testing-skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Selenium&lt;/li&gt;&#xA;&lt;li&gt;APPIUM&lt;/li&gt;&#xA;&lt;li&gt;TestNG&lt;/li&gt;&#xA;&lt;li&gt;JUnit&lt;/li&gt;&#xA;&lt;li&gt;Cucumber&lt;/li&gt;&#xA;&lt;li&gt;Postman&lt;/li&gt;&#xA;&lt;li&gt;REST Assured&lt;/li&gt;&#xA;&lt;li&gt;Xray&lt;/li&gt;&#xA;&lt;li&gt;TestRail&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;project--version-management&#34;&gt;&#xA;  Project &amp;amp; Version Management&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#project--version-management&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;JIRA&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;Jenkins&lt;/li&gt;&#xA;&lt;li&gt;Maven&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;other-skills&#34;&gt;&#xA;  Other Skills&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#other-skills&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Automation Testing&lt;/li&gt;&#xA;&lt;li&gt;Manual Testing&lt;/li&gt;&#xA;&lt;li&gt;Database Testing (JDBC)&lt;/li&gt;&#xA;&lt;li&gt;API Testing&lt;/li&gt;&#xA;&lt;li&gt;Mobile Testing with APPIUM&lt;/li&gt;&#xA;&lt;li&gt;Project Management Methods (Agile, Waterfall)&lt;/li&gt;&#xA;&lt;li&gt;Advanced Excel&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
